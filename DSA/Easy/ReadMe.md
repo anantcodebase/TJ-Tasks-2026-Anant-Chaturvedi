@@ -9,6 +9,7 @@
   * If the stack is empty at the very end, all brackets were valid and balanced (`YES`).
 
 > **Takeaway:** Coming from LeetCode where inputs are already fed into functions, handling raw CLI standard input (`cin`) through the terminal stream was a solid refresher on how input buffers actually behave.
+> https://leetcode.com/u/anantchaturvedi/
 
 ### Output & Verification
 <img width="1470" height="956" alt="Screenshot 2026-09-05 at 11 36 07 PM" src="https://github.com/user-attachments/assets/254c38a7-25a1-4ef7-81f2-77934ab9247a" />
