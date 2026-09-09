@@ -1,0 +1,14 @@
+# NEXUS AI
+
+NEXUS is an AI companion interface for creators, learners, builders, and curious minds.
+
+## Public pages
+- / — product overview and interactive landing page
+- /features — core product capabilities
+- /models — AI companion modes
+- /pricing — pricing UI and tier descriptions
+- /about — project and design principles
+- /chat — interactive chat experience
+
+## Product
+NEXUS emphasizes conversation, coding, learning, productivity, open model support, and a terminal-inspired interface.
