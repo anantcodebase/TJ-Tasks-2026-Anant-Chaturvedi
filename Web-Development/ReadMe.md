@@ -39,12 +39,6 @@ I used **AI as a learning and development assistant** while building this projec
 
 I am using this project as an opportunity to learn how web development works in practice and to understand the code and concepts involved rather than simply treating the project as a finished product.
 
-## Deployment
-
-The website is deployed using **[Vercel / GitHub Pages / Cloudflare Pages]**.
-
-**Live Website:** [ADD YOUR DEPLOYED WEBSITE LINK HERE]
-
 ## Task Source
 
 This project was completed as part of the **Technojam 2026 recruitment tasks** under the Web Development domain.
